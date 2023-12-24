@@ -1,0 +1,792 @@
+2023-12-07 18:24:12 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-07 18:24:12 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-07 18:24:12 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-07 18:24:21 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-07 18:24:21 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-07 18:24:21 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:23:07 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:23:07 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:23:07 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:23:16 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:23:16 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:23:16 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:26:35 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:26:35 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:26:35 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:27:06 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:27:06 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:27:06 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:27:15 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:27:15 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:27:15 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:30:28 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:30:28 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:30:28 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:30:37 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:30:37 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:30:37 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:49:30 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:49:30 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:49:30 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:49:39 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:49:39 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:49:39 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:55:59 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:55:59 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:55:59 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:56:08 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:56:08 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:56:08 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:59:00 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:59:00 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:59:00 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:59:10 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:59:10 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:59:10 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:59:20 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:59:20 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 20:59:20 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 21:00:33 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 21:00:33 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 21:00:33 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 21:01:45 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 21:01:45 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 21:01:45 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 21:06:39 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 21:06:39 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 21:06:39 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 21:06:49 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 21:06:49 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 21:06:49 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 21:33:51 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 21:33:51 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 21:33:51 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 21:34:02 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 21:34:02 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 21:34:02 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 21:34:11 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 21:34:11 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 21:34:11 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-2-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 22:46:45 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 22:46:45 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 22:46:45 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 22:46:54 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 22:46:54 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-10 22:46:54 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/mponnad1/temp_pheonix/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:26:22 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:26:22 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:26:22 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:26:31 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:26:31 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:26:31 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:33:39 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:33:39 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:33:39 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:33:48 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:33:48 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:33:48 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:37:03 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:37:03 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:37:03 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:37:12 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:37:12 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:37:12 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:38:06 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:38:06 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:38:06 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:38:15 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:38:15 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:38:15 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:49:29 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:49:29 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:49:29 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:49:38 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:49:38 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:49:38 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:50:35 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:50:35 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:50:35 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:51:05 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:51:05 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:51:05 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:51:15 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:51:15 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:51:15 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:56:30 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:56:30 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:56:30 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:56:39 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:56:39 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 02:56:39 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 03:04:44 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 03:04:44 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 03:04:44 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 03:04:54 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 03:04:54 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 03:04:54 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 03:13:44 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 03:13:44 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 03:13:44 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 03:13:53 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 03:13:53 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'
+2023-12-13 03:13:53 - ERROR - all_plots.py - couldn't find a field: 'sentiment_score'
+Traceback (most recent call last):
+  File "/home/hvodeya1/Project2/project-3-implementation-the-phoenix/all_plots.py", line 396, in <module>
+    sentiment_score = entry["sentiment_score"]
+                      ~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'sentiment_score'

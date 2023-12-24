@@ -1,0 +1,9 @@
+Flask
+google-api-core
+google-api-python-client
+numpy
+pandas
+pymongo
+pytz
+requests
+matplotlib
