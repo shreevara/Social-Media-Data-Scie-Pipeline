@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+    <h1>Politics Toxicity Plot using ModerateHateSpeech API</h1>
+	
+	<form method="POST" action="{{url_for('select_subreddit')}}">
+        <label for="dropdown">Select a subreddit to add to the plot and press Process:</label>
+        <select id="dropdown" name="dropdown">
+            {% for item in subreddit_option %}
+                <option value="{{ item }}">{{ item }}</option>
+            {% endfor %}
+        </select>
+		<button type="submit">Process</button>
+    </form>
+	
+    <output> <img src="data:image/png;base64, {{ plot_url4 }}" width="1000" height="500" alt="graph"> </output>
+</body>
+</html> 

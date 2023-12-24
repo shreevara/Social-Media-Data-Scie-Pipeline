@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Input Sentiment Score Range</title>
+</head>
+<body>
+    <form action="/inputsenti" method="POST">
+        <label for="min_senti_score">Enter the minimum neutral senti threshold:</label>
+        <input type="number" name="min_senti_score" min="-1" max="1" step="0.01" value="{{ min_senti_score | default(-0.5) }}" oninput="validateMinMax('min_senti_score', 'max_senti_score')">
+        
+        <label for="max_senti_score">Enter the maximum neutral senti threshold:</label>
+        <input type="number" name="max_senti_score" min="-1" max="1" step="0.01" value="{{ max_senti_score | default(0.5) }}" oninput="validateMinMax('min_senti_score', 'max_senti_score')">
+
+        <input type="submit">
+    </form>
+
+    <script>
+        function validateMinMax(minInputName, maxInputName) {
+            var minInput = document.getElementsByName(minInputName)[0];
+            var maxInput = document.getElementsByName(maxInputName)[0];
+
+            if (parseFloat(minInput.value) >= parseFloat(maxInput.value)) {
+                maxInput.setCustomValidity("Maximum value must be greater than the minimum value.");
+            } else {
+                maxInput.setCustomValidity("");
+            }
+        }
+    </script>
+	<output> <img src="data:image/png;base64, {{ plot_url9 }}" width="1000" height="500" alt="graph"> </output>
+</body>
+</html>
